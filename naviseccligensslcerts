@@ -1,0 +1,1 @@
+naviseccli -address [direccion IP] – User [usuario] -Password [contraseña] -Scope 0 security -SPcertificate -generate
